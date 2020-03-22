@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Jing first React/Travis CI/AWS
+          Jing first learn react/Travis CI/AWS
         </a>
       </header>
     </div>
